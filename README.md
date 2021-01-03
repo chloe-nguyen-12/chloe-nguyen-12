@@ -1,4 +1,4 @@
-(https://res.cloudinary.com/doeusfnsd/image/upload/v1609636681/pic/FE_jkxjkl.jpg)
+![banner](https://res.cloudinary.com/doeusfnsd/image/upload/v1609636681/pic/FE_jkxjkl.jpg)
 
 # Chloe Nguyen- Passionate Web Developer
 
