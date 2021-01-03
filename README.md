@@ -1,6 +1,14 @@
-### Hi there 👋
+(https://res.cloudinary.com/doeusfnsd/image/upload/v1609636681/pic/FE_jkxjkl.jpg)
 
-<!--
+# Chloe Nguyen- Passionate Web Developer
+
+- Open and friendly.
+- Love to learn new things, espcially things related to Frontend stacks.
+- Enjoy working with ReactJS.
+
+## Projects for sharing 
+
+ <!--
 **chloe-nguyen-12/chloe-nguyen-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
