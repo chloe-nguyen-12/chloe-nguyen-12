@@ -8,6 +8,8 @@
 - Coding and solving problem with Leetcode
 
 ## Projects for sharing 
+- E-commerce app: https://github.com/chloe-nguyen-12/e-commerce
+- Booking flights: https://github.com/hatchways/team-kim-possible
 - Redux stories app: https://github.com/chloe-nguyen-12/redux-storylist
 - Redux students app: https://github.com/chloe-nguyen-12/react-student
 - React IT logger app: https://github.com/chloe-nguyen-12/react-itlogger
