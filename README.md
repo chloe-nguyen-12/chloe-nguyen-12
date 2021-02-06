@@ -3,8 +3,8 @@
 # Chloe Nguyen- Passionate Web Developer
 
 - Open and friendly
-- Love to learn new things, espcially things related to Frontend stacks
-- Enjoy working with ReactJS
+- Love to learn new things, espcially things related to MERN
+- Enjoy working as Full-stack Developer with ReactJS, NodeJS, MongoDB
 - Coding and solving problem with Leetcode
 
 ## Projects for sharing 
