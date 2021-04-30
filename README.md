@@ -13,7 +13,7 @@
 - Redux stories app: https://github.com/chloe-nguyen-12/redux-storylist
 - Redux students app: https://github.com/chloe-nguyen-12/react-student
 - React IT logger app: https://github.com/chloe-nguyen-12/react-itlogger
-- React Dad Jokes app: https://github.com/chloe-nguyen-12/dad-joke
+- Facebook clone: https://github.com/chloe-nguyen-12/facebook-clone
 
  <!--
 **chloe-nguyen-12/chloe-nguyen-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
