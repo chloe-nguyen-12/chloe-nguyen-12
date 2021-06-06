@@ -1,6 +1,6 @@
 ![banner](https://res.cloudinary.com/doeusfnsd/image/upload/v1609636681/pic/FE_jkxjkl.jpg)
 
-# Chloe Nguyen- Passionate Web Developer
+# Chloe Nguyen- Passionate Software Developer
 
 - Open and friendly
 - Love to learn new things, espcially things related to MERN
